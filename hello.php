@@ -4,6 +4,7 @@
     <?php
     $now = date('Y-m-d H:m:s');
     echo $now;
+    echo "A fully functional clock, how fancy!";
     ?>
 </body>
 </html>
